@@ -16,10 +16,10 @@ Step 1.
 Open "File Explorer" -> Right Click "This PC" -> Click on "Properties" -> Click on "Advanced System Settings"
 
 Step 2.
-Click on "Environment variables" on tab "Advanced0" -> Click "New" and Write on "Variable Name", "OPENSSLDIR", and on "Variable Value", "C:\Program Files\Common Files\SS\"
+Click on "Environment variables" on tab "Advanced" -> Click "New" and Write on "Variable Name", "OPENSSLDIR", and on "Variable Value", "C:\Program Files\Common Files\SS\"
 
 Step 3.
-Click on "Environment variables" on tab "Advanced0" -> Click "New" and Write on "Variable Name", "ENGINESDIR", and on "Variable Value", "C:\Program Files\OpenSSL\lib\engines-1_1\"
+Click on "Environment variables" on tab "Advanced" -> Click "New" and Write on "Variable Name", "ENGINESDIR", and on "Variable Value", "C:\Program Files\OpenSSL\lib\engines-1_1\"
 
 Step 4.
 Now on "System Variables" find "Path", add these two folders, press on the button "New", add "C:\Program Files\Common Files\SS\" and "C:\Program Files\OpenSSL\lib\engines-1_1\"
